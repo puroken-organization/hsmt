@@ -1,2 +1,2 @@
 # hsmt
-test
+VSCodeで編集
